@@ -59,7 +59,7 @@ st.markdown("""
 # --- 3. إدارة الحالة ---
 if 'is_admin' not in st.session_state: st.session_state.is_admin = False
 if 'clicks' not in st.session_state: st.session_state.clicks = 0
-MY_WHATSAPP = "9665XXXXXXXX" # حط رقمك الحقيقي هنا
+MY_WHATSAPP = "966555525316" # حط رقمك الحقيقي هنا
 
 # --- 4. الهيدر والزر السري ---
 col_logo, col_space = st.columns([1, 4])
